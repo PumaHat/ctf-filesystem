@@ -1,0 +1,2 @@
+$ORIGIN campanita.xyz.
+pumahat	3600	 IN 	TXT	"Vean mi pagina en candy.campanita.xyz, la tercera pista esta ahi"
