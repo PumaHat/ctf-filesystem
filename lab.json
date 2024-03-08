@@ -1,0 +1,11 @@
+{
+  "nombre": "Candy Candy",
+  "descripcion": "Ayuda a Candy a encontrar la clave secreta",
+  "listo": false,
+  "temas": [
+    "osint",
+    "crypt",
+    "bof",
+    "forense"
+  ]
+}
